@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="32884093">
+    <data-source source="LOCAL" name="MySQL - NOTE_SMACK_VIA_SPREE_development@localhost" uuid="f53da70d-840a-4bdd-85f5-2abf3608d7c1">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/NOTE_SMACK_VIA_SPREE_development</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc7dff3dfe4dfdddfe1dffbdffddfcd</user-password>
+      <schema-pattern>NOTE_SMACK_VIA_SPREE_development.* NOTE_SMACK_VIA_SPREE_test.*</schema-pattern>
+      <default-schemas>NOTE_SMACK_VIA_SPREE_development.* NOTE_SMACK_VIA_SPREE_test.*</default-schemas>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+      </driver-properties>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
